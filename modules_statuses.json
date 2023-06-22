@@ -1,0 +1,7 @@
+{
+    "Api": true,
+    "Admin": true,
+    "Seeder": true,
+    "Middleware": true,
+    "JwtAuth": true
+}
